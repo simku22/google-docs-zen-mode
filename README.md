@@ -1,2 +1,2 @@
 # google-docs-zen-mode
-finally zen mode
+for mac: options + shift + z to toggle
